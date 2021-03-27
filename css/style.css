@@ -228,7 +228,7 @@ address {
   height: 70px;
   margin: 25px 100px;
 }
-/* .feature-item, */
+.feature-item,
 .feature-icon::before {
   content: "";
   display: block;
